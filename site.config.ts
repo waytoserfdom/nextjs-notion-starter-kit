@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b25a33301ad04450b655d7dd874e5aef',
+  rootNotionPageId: '62f612ccdc014524b0d46e19ff8382a1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: '62f612ccdc014524b0d46e19ff8382a1',
+  rootNotionSpaceId: 'b25a33301ad04450b655d7dd874e5aef',
 
   // basic site info (required)
   name: 'IT Service Wiki',
